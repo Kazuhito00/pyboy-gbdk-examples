@@ -44,9 +44,15 @@
 
 # Kernel Module Compile Results
 *.mod*
-*.cmd
+# *.cmd
 .tmp_versions/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# pyboy
+pyboy/
+
+# other
+*.bat
