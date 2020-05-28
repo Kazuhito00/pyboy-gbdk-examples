@@ -22,7 +22,7 @@ from pyboy import PyBoy
 # コマンドライン引数
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "--rom", help='gb file path', default='00.ROMs/01.hello_world.gb')
+    "--rom", help='gb file path', default='00.ROMs/02.draw_figure.gb')
 args = parser.parse_args()
 
 rom_path = args.rom
