@@ -10,3 +10,5 @@ https://github.com/Baekalfen/PyBoy
 * [ゲームボーイはまだ終わってない！](http://boy.game-pc7.com/)
 
 #Licence
+
+nlpaug-examples is under [MIT license](LICENSE).
