@@ -29,15 +29,26 @@ python3 -m pip install pyboy
 詳しくは公式の[Installation](https://github.com/Baekalfen/PyBoy/wiki/Installation)を参照
 
 # Usage
+```bash
+python sample.py --rom 00.ROMs/01.hello_world.gb
+```
+
+# Build ※Windows版
+各フォルダ配下にある「make.cmd」を実行してください。
 
 # Contents
 * 01.hello_world<br>
-HEllo World、および文字表示サンプル
+HEllo World、および文字表示サンプル<br>
+![2020-06-20](https://user-images.githubusercontent.com/37477845/85189469-5c5e5980-b2ea-11ea-8ea6-35368492029c.png)
 * 02.draw_figure<br>
-図形描画サンプル
-* 03.key_input	キー入力サンプル追加<br>
-キー入力サンプル
-* 10.game_of_life
+図形描画サンプル<br>
+![2020-06-20 (1)](https://user-images.githubusercontent.com/37477845/85189471-5e281d00-b2ea-11ea-98c1-d1fa0f46b136.png)
+* 03.key_input<br>
+キー入力サンプル<br>
+![2020-06-20 (3)](https://user-images.githubusercontent.com/37477845/85189472-5ec0b380-b2ea-11ea-8fc1-dc60d13e0be5.png)
+* 10.game_of_life<br>
+ライフゲームサンプル<br>
+![2020-06-20 (5)](https://user-images.githubusercontent.com/37477845/85189474-5f594a00-b2ea-11ea-8210-b2c0c6d0c038.png)
 
 # Reference
 * [PyBoy公式](https://github.com/Baekalfen/PyBoy)
