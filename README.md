@@ -26,7 +26,7 @@ python3 -m pip install --upgrade pip<br>
 python3 -m pip install pyboy
 
 
-詳しくは公式の[Installation](https://github.com/Baekalfen/PyBoy/wiki/Installation)を参照
+※詳しくは公式の[Installation](https://github.com/Baekalfen/PyBoy/wiki/Installation)を参照
 
 # Usage
 ```bash
