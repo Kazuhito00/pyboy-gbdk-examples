@@ -59,4 +59,4 @@ HEllo World、および文字表示サンプル<br>
 
 # Licence
 
-nlpaug-examples is under [MIT license](LICENSE).
+pyboy-gbdk-examples is under [MIT license](LICENSE).
