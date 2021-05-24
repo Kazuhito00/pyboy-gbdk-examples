@@ -54,6 +54,9 @@ HEllo World、および文字表示サンプル<br>
 * [PyBoy公式](https://github.com/Baekalfen/PyBoy)
 * [ゲームボーイはまだ終わってない！](http://boy.game-pc7.com/)
 
+# ToDo
+- [ ] [gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)調査
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
